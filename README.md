@@ -88,7 +88,7 @@ The final installation is designed to run as a standalone Bela system after the 
 
 ## Screenshots / Media
 ![alt text](<Installation -Final.png>)
-![alt text](<Installation - Individual.jpg>)
+![alt text](<Installation - Individual.png>)
 ![alt text](<Installation - Focus.png>)
 ![alt text](Installation.jpg)
 
